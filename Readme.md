@@ -1,0 +1,1 @@
+Test project for a "displacement glitch" shader for HaxeFlixel. It could be applied on FlxSprite or on FlxCamera.
